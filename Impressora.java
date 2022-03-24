@@ -1,5 +1,4 @@
 public class Impressora {
-
     private static Impressora fila;
     public String imprime;
 
